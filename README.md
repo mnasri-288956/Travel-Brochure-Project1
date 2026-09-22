@@ -4,7 +4,7 @@
 
 A responsive travel brochure website for a fictional tropical destination called Paradise Island.
 
-Created for CIS 435 Project 1.
+Created for Project 1.
 
 ## Features
 
@@ -24,27 +24,30 @@ Created for CIS 435 Project 1.
 ## Screenshots
 
 ### Desktop
-![Desktop Screenshot 1](<screenshots/Desktop Screenshot (1-3).png>)
 
-![Desktop Screenshot 2](<screenshots/Desktop Screenshot (2-3).png>)
+![Desktop Screenshot 1](<Desktop Screenshot (1-3).png>)
 
-![Desktop Screenshot 3](<screenshots/Desktop Screenshot (3-3).png>)
+![Desktop Screenshot 2](<Desktop Screenshot (2-3).png>)
+
+![Desktop Screenshot 3](<Desktop Screenshot (3-3).png>)
 
 ### Tablet
-![Tablet Screenshot 1](<screenshots/Tablet Screenshot (1-3).png>)
 
-![Tablet Screenshot 2](<screenshots/Tablet Screenshot (2-3).png>)
+![Tablet Screenshot 1](<Tablet Screenshot (1-3).png>)
 
-![Tablet Screenshot 3](<screenshots/Tablet Screenshot (3-3).png>)
+![Tablet Screenshot 2](<Tablet Screenshot (2-3).png>)
+
+![Tablet Screenshot 3](<Tablet Screenshot (3-3).png>)
 
 ### Mobile
-![Mobile Screenshot 1](<screenshots/Mobile Screenshot (1-4).png>)
 
-![Mobile Screenshot 2](<screenshots/Mobile Screenshot (2-4).png>)
+![Mobile Screenshot 1](<Mobile Screenshot (1-4).png>)
 
-![Mobile Screenshot 3](<screenshots/Mobile Screenshot (3-4).png>)
+![Mobile Screenshot 2](<Mobile Screenshot (2-4).png>)
 
-![Mobile Screenshot 4](<screenshots/Mobile Screenshot (4-4).png>)
+![Mobile Screenshot 3](<Mobile Screenshot (3-4).png>)
+
+![Mobile Screenshot 4](<Mobile Screenshot (4-4).png>)
 
 ## How to Run
 
